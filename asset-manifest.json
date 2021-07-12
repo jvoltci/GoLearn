@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/golearn/static/css/main.b73d32c2.chunk.css",
-    "main.js": "/golearn/static/js/main.134fe8a3.chunk.js",
-    "main.js.map": "/golearn/static/js/main.134fe8a3.chunk.js.map",
-    "runtime-main.js": "/golearn/static/js/runtime-main.37b59c63.js",
-    "runtime-main.js.map": "/golearn/static/js/runtime-main.37b59c63.js.map",
-    "static/js/2.a939b6e9.chunk.js": "/golearn/static/js/2.a939b6e9.chunk.js",
-    "static/js/2.a939b6e9.chunk.js.map": "/golearn/static/js/2.a939b6e9.chunk.js.map",
-    "static/js/3.914f82d8.chunk.js": "/golearn/static/js/3.914f82d8.chunk.js",
-    "static/js/3.914f82d8.chunk.js.map": "/golearn/static/js/3.914f82d8.chunk.js.map",
+    "main.js": "/golearn/static/js/main.8853d021.chunk.js",
+    "main.js.map": "/golearn/static/js/main.8853d021.chunk.js.map",
+    "runtime-main.js": "/golearn/static/js/runtime-main.a5a3bfcc.js",
+    "runtime-main.js.map": "/golearn/static/js/runtime-main.a5a3bfcc.js.map",
+    "static/js/2.69a6daa9.chunk.js": "/golearn/static/js/2.69a6daa9.chunk.js",
+    "static/js/2.69a6daa9.chunk.js.map": "/golearn/static/js/2.69a6daa9.chunk.js.map",
+    "static/js/3.b0882deb.chunk.js": "/golearn/static/js/3.b0882deb.chunk.js",
+    "static/js/3.b0882deb.chunk.js.map": "/golearn/static/js/3.b0882deb.chunk.js.map",
     "index.html": "/golearn/index.html",
     "static/css/main.b73d32c2.chunk.css.map": "/golearn/static/css/main.b73d32c2.chunk.css.map",
-    "static/js/2.a939b6e9.chunk.js.LICENSE.txt": "/golearn/static/js/2.a939b6e9.chunk.js.LICENSE.txt",
+    "static/js/2.69a6daa9.chunk.js.LICENSE.txt": "/golearn/static/js/2.69a6daa9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/golearn/static/media/index.10201a0e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37b59c63.js",
-    "static/js/2.a939b6e9.chunk.js",
+    "static/js/runtime-main.a5a3bfcc.js",
+    "static/js/2.69a6daa9.chunk.js",
     "static/css/main.b73d32c2.chunk.css",
-    "static/js/main.134fe8a3.chunk.js"
+    "static/js/main.8853d021.chunk.js"
   ]
 }
